@@ -1,0 +1,5 @@
+cropdata/test_data_3500_1000.bmp 0
+cropdata/data_N44W116_133m2.bmp 0
+cropdata/data_N46W115_133m2.bmp 0
+cropdata/data_N46W116_133m2.bmp 0
+cropdata/data_N45W115_133m.bmp 0
