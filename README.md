@@ -3,7 +3,7 @@ This project contains code for generating realistic procedural heightmaps using 
 Since both GANs contain only convolutional layers (no fully-connected ones) it is possible to generate unlimited seamless heightmaps on-the-fly. By creating input noise in a cyclic way, it is also possible to generate tiling heightmaps.
 
 This is an example heightmap generated using this model:
-![alt text](https://raw.githubusercontent.com/liquidnode/neural_terrain_2/HMaps/HMap.png)
+![alt text](https://raw.githubusercontent.com/liquidnode/neural_terrain_2/master/HMaps/HMap.png)
 
 This system is used in this project https://www.youtube.com/watch?v=PfyQ_DYArwA.
 
